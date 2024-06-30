@@ -1,7 +1,9 @@
 @ssbrv
 
 - Prague, Czech Republic / Praha, Česká Republika
-- IdM Engineer at AMI Praha
-- FIT CTU 2nd year / FIT ČVUT 2. ročník
-- C, C++, Java, DevOps
+- IAM/IdM Consultant at AMI Praha
+- FIT CTU 3rd year / FIT ČVUT 3. ročník
+- C, C++, Java, Typescript
+- Spring Boot, React
+- PostgreSQL
 - ENG, CZ, RU
