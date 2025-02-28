@@ -1,9 +1,8 @@
 @ssbrv
 
 - Prague, Czech Republic / Praha, Česká Republika
-- IAM/IdM Consultant at AMI Praha
+- Frontend Developer at CZ.NIC
 - FIT CTU 3rd year / FIT ČVUT 3. ročník
-- C, C++, Java, Typescript
-- Spring Boot, React
-- PostgreSQL
+- Java, JavaScript/Typescript, C/C++
+- Spring Boot, React/Next, Vue/Nuxt, React Native
 - ENG, CZ, RU
